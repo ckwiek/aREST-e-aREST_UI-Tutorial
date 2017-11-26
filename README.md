@@ -1,7 +1,7 @@
 # aREST-e-aREST_UI-Tutorial
 Para aqueles que não gostam de escrever muito código, existem bibliotecas que nos ajudam muito, este creio é um caso.
 
-Link video no meu canal do youtube: https://youtu.be/03u9v1yMers
+Link video no meu canal do youtube: https://youtu.be/dqlSWq1Hp-8
 
 Portugues: 
 
